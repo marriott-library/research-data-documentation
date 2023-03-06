@@ -1,5 +1,5 @@
-﻿This AUTHOR_readme.txt file was generated on [YYYYMMDD] by [Name]
-(Please update the file name to read AUTHOR_readme.txt)
+This AUTHORLAST_readmeYYYYMMDD.txt file was generated on YYYYMMDD by [First and Last Name]
+<Submitters: Please save the file using this naming convention: AUTHORLAST_readmeYYYYMMDD.txt>
 
 -------------------
 GENERAL INFORMATION
